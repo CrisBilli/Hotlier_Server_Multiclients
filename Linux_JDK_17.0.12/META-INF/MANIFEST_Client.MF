@@ -1,0 +1,2 @@
+Main-Class: Client.HOTELIERCustomerClient
+Class-Path: ./Libreria/gson-2.10.jar

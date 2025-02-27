@@ -1,0 +1,2 @@
+Main-Class: Server.HOTELIERServer
+Class-Path: ./Libreria/gson-2.10.jar

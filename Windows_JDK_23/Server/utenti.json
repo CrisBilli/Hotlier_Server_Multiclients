@@ -1,0 +1,175 @@
+[
+  {
+    "nome": "Cris",
+    "password": "123",
+    "numeroRecensioni": 9,
+    "livelloDistintivo": "Recensore Esperto",
+    "recensioni": [
+      {
+        "nomeHotel": "Hotel Roma 2",
+        "citta": "Roma",
+        "punteggi": {
+          "posizione": 5,
+          "pulizia": 5,
+          "servizio": 5,
+          "prezzo": 5
+        }
+      },
+      {
+        "nomeHotel": "Hotel Firenze 3",
+        "citta": "Firenze",
+        "punteggi": {
+          "posizione": 5,
+          "pulizia": 5,
+          "servizio": 5,
+          "prezzo": 5
+        }
+      },
+      {
+        "nomeHotel": "Hotel Cagliari 3",
+        "citta": "Cagliari",
+        "punteggi": {
+          "posizione": 5,
+          "pulizia": 5,
+          "servizio": 5,
+          "prezzo": 5
+        }
+      },
+      {
+        "nomeHotel": "Hotel Cagliari 3",
+        "citta": "Cagliari",
+        "punteggi": {
+          "posizione": 5,
+          "pulizia": 5,
+          "servizio": 5,
+          "prezzo": 5
+        }
+      },
+      {
+        "nomeHotel": "Hotel Firenze 3",
+        "citta": "Firenze",
+        "punteggi": {
+          "posizione": 5,
+          "pulizia": 5,
+          "servizio": 5,
+          "prezzo": 5
+        }
+      },
+      {
+        "nomeHotel": "Hotel Milano 3",
+        "citta": "Milano",
+        "punteggi": {
+          "posizione": 5,
+          "pulizia": 5,
+          "servizio": 5,
+          "prezzo": 5
+        }
+      },
+      {
+        "nomeHotel": "Hotel Palermo 1",
+        "citta": "Palermo",
+        "punteggi": {
+          "posizione": 5,
+          "pulizia": 5,
+          "servizio": 5,
+          "prezzo": 5
+        }
+      },
+      {
+        "nomeHotel": "Hotel Palermo 1",
+        "citta": "Palermo",
+        "punteggi": {
+          "posizione": 5,
+          "pulizia": 5,
+          "servizio": 5,
+          "prezzo": 5
+        }
+      },
+      {
+        "nomeHotel": "Hotel Palermo 1",
+        "citta": "Palermo",
+        "punteggi": {
+          "posizione": 5,
+          "pulizia": 5,
+          "servizio": 5,
+          "prezzo": 5
+        }
+      }
+    ]
+  },
+  {
+    "nome": "Test",
+    "password": "123",
+    "numeroRecensioni": 6,
+    "livelloDistintivo": "Recensore Esperto",
+    "recensioni": [
+      {
+        "nomeHotel": "Hotel Bari 10",
+        "citta": "Bari",
+        "punteggi": {
+          "posizione": 5,
+          "pulizia": 5,
+          "servizio": 5,
+          "prezzo": 5
+        }
+      },
+      {
+        "nomeHotel": "Hotel Firenze 1",
+        "citta": "Firenze",
+        "punteggi": {
+          "posizione": 4,
+          "pulizia": 5,
+          "servizio": 5,
+          "prezzo": 5
+        }
+      },
+      {
+        "nomeHotel": "Hotel Firenze 3",
+        "citta": "Firenze",
+        "punteggi": {
+          "posizione": 5,
+          "pulizia": 5,
+          "servizio": 5,
+          "prezzo": 5
+        }
+      },
+      {
+        "nomeHotel": "Hotel Milano 5",
+        "citta": "Milano",
+        "punteggi": {
+          "posizione": 5,
+          "pulizia": 5,
+          "servizio": 5,
+          "prezzo": 5
+        }
+      },
+      {
+        "nomeHotel": "Hotel Venezia 4",
+        "citta": "Venezia",
+        "punteggi": {
+          "posizione": 5,
+          "pulizia": 5,
+          "servizio": 5,
+          "prezzo": 5
+        }
+      },
+      {
+        "nomeHotel": "Hotel Venezia 4",
+        "citta": "Venezia",
+        "punteggi": {
+          "posizione": 5,
+          "pulizia": 5,
+          "servizio": 5,
+          "prezzo": 5
+        }
+      }
+    ]
+  },
+  {
+    "nome": "Red",
+    "password": "123",
+    "numeroRecensioni": 0,
+    "livelloDistintivo": "Recensore",
+    "recensioni": []
+  }
+]

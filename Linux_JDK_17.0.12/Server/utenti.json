@@ -1,0 +1,68 @@
+[
+  {
+    "nome": "Cris",
+    "password": "123",
+    "numeroRecensioni": 4,
+    "livelloDistintivo": "Recensore",
+    "recensioni": [
+      {
+        "nomeHotel": "Hotel Roma 2",
+        "citta": "Roma",
+        "punteggi": {
+          "posizione": 5,
+          "pulizia": 5,
+          "servizio": 5,
+          "prezzo": 5
+        }
+      },
+      {
+        "nomeHotel": "Hotel Firenze 3",
+        "citta": "Firenze",
+        "punteggi": {
+          "posizione": 5,
+          "pulizia": 5,
+          "servizio": 5,
+          "prezzo": 5
+        }
+      },
+      {
+        "nomeHotel": "Hotel Cagliari 3",
+        "citta": "Cagliari",
+        "punteggi": {
+          "posizione": 5,
+          "pulizia": 5,
+          "servizio": 5,
+          "prezzo": 5
+        }
+      },
+      {
+        "nomeHotel": "Hotel Cagliari 3",
+        "citta": "Cagliari",
+        "punteggi": {
+          "posizione": 5,
+          "pulizia": 5,
+          "servizio": 5,
+          "prezzo": 5
+        }
+      }
+    ]
+  },
+  {
+    "nome": "Test",
+    "password": "123",
+    "numeroRecensioni": 1,
+    "livelloDistintivo": "Recensore",
+    "recensioni": [
+      {
+        "nomeHotel": "Hotel Bari 10",
+        "citta": "Bari",
+        "punteggi": {
+          "posizione": 5,
+          "pulizia": 5,
+          "servizio": 5,
+          "prezzo": 5
+        }
+      }
+    ]
+  }
+]
