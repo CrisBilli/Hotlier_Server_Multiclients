@@ -128,3 +128,6 @@ Questi script consentono di testare facilmente il sistema senza dover avviare ma
 
 ---
 
+## Licenza
+Questo progetto è distribuito sotto licenza MIT.
+
